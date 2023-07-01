@@ -1,0 +1,9 @@
+﻿  Applicationcpp.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Applicationcpp.obj : error LNK2019: unresolved external symbol "public: __thiscall VertexArray::VertexArray(void)" (??0VertexArray@@QAE@XZ) referenced in function _main
+Applicationcpp.obj : error LNK2019: unresolved external symbol "public: __thiscall VertexArray::~VertexArray(void)" (??1VertexArray@@QAE@XZ) referenced in function _main
+Applicationcpp.obj : error LNK2019: unresolved external symbol "public: void __thiscall VertexArray::AddBuffer(class VertexBuffer const &,class VertexBufferLayout const &)" (?AddBuffer@VertexArray@@QAEXABVVertexBuffer@@ABVVertexBufferLayout@@@Z) referenced in function _main
+Applicationcpp.obj : error LNK2019: unresolved external symbol "public: void __thiscall VertexArray::UnBind(void)const " (?UnBind@VertexArray@@QBEXXZ) referenced in function _main
+Renderer.obj : error LNK2019: unresolved external symbol "public: void __thiscall VertexArray::Bind(void)const " (?Bind@VertexArray@@QBEXXZ) referenced in function "public: void __thiscall Renderer::Draw(class VertexArray const &,class IndexBuffer const &,class Shader const &)const " (?Draw@Renderer@@QBEXABVVertexArray@@ABVIndexBuffer@@ABVShader@@@Z)
+C:\Users\joejy\source\repos\OpenGL\OpenGL01\Debug\OpenGL01.exe : fatal error LNK1120: 5 unresolved externals
