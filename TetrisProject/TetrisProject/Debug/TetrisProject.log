@@ -1,0 +1,9 @@
+﻿  sample.cpp
+C:\Users\joejy\source\repos\TetrisProject\TetrisProject\sample.cpp(12,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joejy\source\repos\TetrisProject\TetrisProject\sample.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joejy\source\repos\TetrisProject\TetrisProject\sample.cpp(217,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\joejy\source\repos\TetrisProject\TetrisProject\sample.cpp(217,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\joejy\source\repos\TetrisProject\TetrisProject\sample.cpp(228,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\joejy\source\repos\TetrisProject\TetrisProject\sample.cpp(228,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\joejy\source\repos\TetrisProject\TetrisProject\sample.cpp(286,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TetrisProject.vcxproj -> C:\Users\joejy\source\repos\TetrisProject\Debug\TetrisProject.exe
