@@ -1,0 +1,10 @@
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\calculator\calculator\obj\Debug\calculator.pdb

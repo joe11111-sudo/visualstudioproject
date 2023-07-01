@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\joejy\source\repos\LeetCode\MoveZeroes\MoveZeroes\Source.cpp(12,15): error C2065: 'ture': undeclared identifier
+C:\Users\joejy\source\repos\LeetCode\MoveZeroes\MoveZeroes\Source.cpp(15,5): error C2017: illegal escape sequence
+C:\Users\joejy\source\repos\LeetCode\MoveZeroes\MoveZeroes\Source.cpp(24,17): error C2563: mismatch in formal parameter list

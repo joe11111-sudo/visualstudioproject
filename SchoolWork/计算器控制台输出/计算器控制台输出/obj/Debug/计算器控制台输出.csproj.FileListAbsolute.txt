@@ -1,0 +1,7 @@
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\计算器控制台输出\计算器控制台输出\bin\Debug\计算器控制台输出.exe.config
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\计算器控制台输出\计算器控制台输出\bin\Debug\计算器控制台输出.exe
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\计算器控制台输出\计算器控制台输出\bin\Debug\计算器控制台输出.pdb
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\计算器控制台输出\计算器控制台输出\obj\Debug\计算器控制台输出.csprojAssemblyReference.cache
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\计算器控制台输出\计算器控制台输出\obj\Debug\计算器控制台输出.csproj.CoreCompileInputs.cache
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\计算器控制台输出\计算器控制台输出\obj\Debug\计算器控制台输出.exe
+C:\Users\joejy\OneDrive\Desktop\我的c#\作业\计算器控制台输出\计算器控制台输出\obj\Debug\计算器控制台输出.pdb
