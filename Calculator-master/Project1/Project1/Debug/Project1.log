@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Strix\Desktop\vs\CCStudio\Demo\Project1\Project1\MyForm.h(1272,19): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> C:\Users\Strix\Desktop\vs\CCStudio\Demo\Project1\Debug\Project1.exe

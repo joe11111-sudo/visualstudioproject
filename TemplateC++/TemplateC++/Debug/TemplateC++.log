@@ -1,0 +1,45 @@
+﻿  implement-person.cpp
+  template-exercise1.cpp
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(24,4): error C2760: syntax error: unexpected token 'for', expected 'declaration'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(38,17): error C2065: 'Tarr': undeclared identifier
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(38,1): error C2988: unrecognizable template declaration/definition
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(38,1): error C2059: syntax error: ']'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(38,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(38,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(49,1): error C2070: 'char []': illegal sizeof operand
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(51,2): error C3861: 'printArray': identifier not found
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(56,1): error C2632: 'int' followed by 'int' is illegal
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(57,19): error C2065: 'intArr': undeclared identifier
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(58,9): error C2065: 'intArr': undeclared identifier
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(59,13): error C2065: 'intArr': undeclared identifier
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\template-exercise1.cpp(59,2): error C3861: 'printArray': identifier not found
+  veriabletemplate-2.cpp
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(11,1): error C2061: syntax error: identifier 'NameType'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(21): message : see reference to class template instantiation 'Person<Nametype,AgeType>' being compiled
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(19,1): error C3646: 'Age': unknown override specifier
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(19,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(12,16): error C3861: 'name': identifier not found
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(13,15): error C3861: 'age': identifier not found
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(27,38): error C2661: 'Person<std::string,int>::Person': no overloaded function takes 2 arguments
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-2.cpp(33,32): error C2661: 'Person<std::string,int>::Person': no overloaded function takes 2 arguments
+  veriableTemplate-3.cpp
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-3.cpp(29,7): error C2039: 'showPerson1': is not a member of 'Person1'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-3.cpp(8): message : see declaration of 'Person1'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-3.cpp(28): message : while compiling class template member function 'void Myclass<Person1>::func1(void)'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-3.cpp(39): message : see reference to function template instantiation 'void Myclass<Person1>::func1(void)' being compiled
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-3.cpp(38): message : see reference to class template instantiation 'Myclass<Person1>' being compiled
+  veriableTemplate-4.cpp
+  veriabletemplate-doc.cpp
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-doc.cpp(25,50): error C2039: 'age': is not a member of 'Person<std::string,int>'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-doc.cpp(29): message : see declaration of 'Person<std::string,int>'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-doc.cpp(24): message : while compiling class template member function 'void Person<std::string,int>::showPerson(void)'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-doc.cpp(30): message : see reference to function template instantiation 'void Person<std::string,int>::showPerson(void)' being compiled
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-doc.cpp(29): message : see reference to class template instantiation 'Person<std::string,int>' being compiled
+  veriabletemplate-extends.cpp
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriabletemplate-extends.cpp(21,6): warning C4101: 's1': unreferenced local variable
+  veriableTemplate-implememnt.cpp
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-implememnt.cpp(34,53): error C2676: binary '<': 'std::basic_ostream<char,std::char_traits<char>>' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-implememnt.cpp(33): message : while compiling class template member function 'void Person<std::string,int>::showPerson(void)'
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-implememnt.cpp(40): message : see reference to function template instantiation 'void Person<std::string,int>::showPerson(void)' being compiled
+C:\Users\joejy\source\repos\TemplateC++\TemplateC++\veriableTemplate-implememnt.cpp(39): message : see reference to class template instantiation 'Person<std::string,int>' being compiled
+  Generating Code...

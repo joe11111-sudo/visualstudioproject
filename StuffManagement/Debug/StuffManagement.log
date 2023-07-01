@@ -1,0 +1,31 @@
+﻿  boss.cpp
+  employee.cpp
+  mainpage.cpp
+C:\Users\joejy\source\repos\StuffManagement\Mainpage.h(10,1): error C2008: '"': unexpected in macro definition
+C:\Users\joejy\source\repos\StuffManagement\Mainpage.h(10,1): error C2001: newline in constant
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(14,11): error C2065: 'empFile': undeclared identifier
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(14,11): error C2143: syntax error: missing ')' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(14,11): error C2143: syntax error: missing ';' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(14,28): error C2059: syntax error: ')'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(138,4): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(172,11): error C2065: 'empFile': undeclared identifier
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(172,11): error C2143: syntax error: missing ')' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(172,11): error C2143: syntax error: missing ';' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(172,29): error C2059: syntax error: ')'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(188,11): error C2065: 'empFile': undeclared identifier
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(188,11): error C2143: syntax error: missing ')' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(188,11): error C2143: syntax error: missing ';' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(188,28): error C2059: syntax error: ')'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(206,11): error C2065: 'empFile': undeclared identifier
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(206,11): error C2143: syntax error: missing ')' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(206,11): error C2143: syntax error: missing ';' before 'string'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(206,28): error C2059: syntax error: ')'
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(335,4): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(381,22): error C2084: function 'Mainpage::Mainpage(void)' already has a body
+C:\Users\joejy\source\repos\StuffManagement\mainpage.cpp(10): message : see previous definition of '{ctor}'
+  main.cpp
+C:\Users\joejy\source\repos\StuffManagement\Mainpage.h(10,1): error C2008: '"': unexpected in macro definition
+C:\Users\joejy\source\repos\StuffManagement\Mainpage.h(10,1): error C2001: newline in constant
+C:\Users\joejy\source\repos\StuffManagement\main.cpp(71,3): warning C4065: switch statement contains 'default' but no 'case' labels
+  manager.cpp
+  Generating Code...
